@@ -4,12 +4,10 @@ venv/
 __pycache__/
 *.pyc
 
-# Dataset và file weights mô hình nặng
+# Tập tin dataset thô nặng và log
 dataset_bilstm/
-bilstm_results/
 runs/
 *.npy
-*.h5
 
 # File báo cáo cá nhân
 *.docx
